@@ -1,4 +1,3 @@
-package try_java;
 
 public class AdvDesignPatternsYT {
 	public static void butterfly() {
