@@ -1,4 +1,3 @@
-package try_java;
 
 public class DesignPatternsYT {
 	public static void rectangle() {
